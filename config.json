@@ -1,0 +1,12 @@
+{
+    "bot_prefix": "!event",
+    "token_file": "token.txt",
+    "event_info_file": "event_information.json",
+
+    "channel_IDS": {
+        "event_announcements": 762478281407594497
+    },
+    "category_IDS": {
+        "group_channels_category": 762501152729858080
+    }
+}
